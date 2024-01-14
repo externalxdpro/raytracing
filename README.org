@@ -1,0 +1,6 @@
+#+title: Readme
+
+* Build instructions
+#+begin_src shell
+make && bin/ray
+#+end_src
